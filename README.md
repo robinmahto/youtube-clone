@@ -1,2 +1,6 @@
-# youtube-clone
-Trying to clone features of youtube
+# Youtube Clone
+
+## Tech Stack 
+- React.js
+- CSS Module
+- youtube API
